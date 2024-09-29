@@ -1,3 +1,3 @@
 # LITA_Class_Documentation
 
-### Project Title: New Skills Acquired As Data Analysis
+### Project Title: Data Analysis Project
