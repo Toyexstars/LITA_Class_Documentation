@@ -56,3 +56,8 @@ This aspect is about writing codes to perform some of the following:
    ```SQL
      CREATE DATABASE LITA_STORE
    ```
+   ```SQL
+    SELECT BRANDS, SUM(Profit) AS Total_Profit FROM Table1
+    GROUP BY Brands
+    ORDER BY 2 DESC
+   ```
