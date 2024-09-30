@@ -50,4 +50,9 @@ The primary source of Data used is Data.Sale.CSV and this is an open source data
     - From which brand do the company make the highest sales?
     - What is the number of employees in a particlar branch?
 
-  
+### Exploratory SQL- Structured Query Language
+This aspect is about writing codes to perform some of the following:
+ - Create Database
+   ```SQL
+     CREATE DATABASE LITA_STORE
+   ```
