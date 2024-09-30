@@ -61,3 +61,6 @@ This aspect is about writing codes to perform some of the following:
     GROUP BY Brands
     ORDER BY 2 DESC
    ```
+- Importing
+- Exporting
+- Analysis
