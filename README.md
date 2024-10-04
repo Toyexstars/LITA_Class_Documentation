@@ -22,7 +22,7 @@
  [Recommendation](#recommendation)
 
 ### Project Overview
-This Data Analyis Project aims to showcase new skilled I acquired as a Data Analyst while receiving training from Ladies In Tech Africa. By using Data Analyst Tools for data ingestion, transformation, modelling, visualization, analysis and presenting it for decision making.
+This Data Analyis Project aims to showcase new skilled I acquired as a Data Analyst while receiving training from Ladies In Tech Africa. By using Data Analyst Tools for data ingestion, transformation, modelling, visualization, analysising and presenting it for decision making.
 
 ### Data Sources
 The primary source of Data used is Data.Sale.CSV and this is an open source data that can be freely downloaded from an open source online such as Kaggle or any other data repository site.
@@ -48,17 +48,28 @@ The primary source of Data used is Data.Sale.CSV and this is an open source data
   2. Handling Missing Variables
   3. Data Cleaning and Formatting
 
-### Exploratory Data Analysis
- EDA involves the exploring of the data to answer the following questions:
-    - What is the total revenue generated from sales?
-    - What is the total profit made by the company?
-    - Which customers can be ranked as TOP 5?
-    - From which brand do the company make the highest sales?
-    - What is the number of employees in a particlar branch?
+### Exploration Of Microsoft Excel
+  Microsoft Excel is a spread sheet application that can be used to carry out many functions such as:
+- Data Validation
+- Data Entry (Using FORM)
+- Aggregation with conditions
+- Look Up Functions
+- Cell Referencing
+- IFS Functions
+- Pivot Table for creating report
 
-### Exploratory SQL- Structured Query Language
+### Exploration Of Data For Analysis
+ EDA involves the exploring of the data to answer the following questions:
+ 
+ - What is the total revenue generated from sales?
+ - What is the total profit made by the company?
+ - Which customers can be ranked as TOP 5?
+ - From which brand do the company make the highest sales?
+ - What is the number of employees in a particlar branch?
+
+### Exploratory Of SQL- Structured Query Language
 This aspect is about writing codes to perform some of the following:
- - Create Database
+ - Create Database and Table
    ```SQL
      CREATE DATABASE LITA_STORE
    ```
@@ -69,10 +80,23 @@ This aspect is about writing codes to perform some of the following:
    ```
 - Importing
 - Exporting
-- Analysis
+- Analysing (MAX, MIN, LIMIT, SUM, COUNT)
+- Joining (INNER JOIN, OUTER JOIN, LEFT JOIN, RIGHT JOIN, FULLJOIN)
+- Create View for tables
+- Range Operators (Between. Not Between)
+- A rithmetic and Comparison Operators (+, *, -, /, <, >, =)
+- Alter, Drop and Update 
 
 ### Data Visualization
 
 
 ### Recommendation
+
+
+
+
+### Conclusion
+
+Based on the Data Analysis Tools that I have learnt in Ladies In Africa Tech, I can offer valuable insight into data. By helping organization to identify bottlenecks and inefficiency in processes and building reports that can be used to make decision leading to optimization and cost reduction.
+
 
