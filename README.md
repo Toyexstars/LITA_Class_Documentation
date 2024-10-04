@@ -13,13 +13,17 @@
 
  [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 
- [Exploratory Data Analysis](#exploratory-data-analysis)
+ [Exploration Of Microsoft Excel](#exploration-of-microsoft-excel)
 
- [Exloratory SQL](#exploratory-sql)
+ [Exploration Of Data Analysis](#exploration-of-data-analysis)
+
+ [Exloration-Of SQL](#exploration-of-sql)
 
  [Data Visualization](#data-visualization)
 
  [Recommendation](#recommendation)
+
+ [Conclusion](#conclusion)
 
 ### Project Overview
 This Data Analyis Project aims to showcase new skilled I acquired as a Data Analyst while receiving training from Ladies In Tech Africa. By using Data Analyst Tools for data ingestion, transformation, modelling, visualization, analysising and presenting it for decision making.
