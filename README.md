@@ -45,6 +45,10 @@ The primary source of Data used is Data.Sale.CSV and this is an open source data
     - For PortFolio Building
     - For Collaboration
     - Project Management
+  - Power BI -Business Intelligence
+    - Data Visualization
+    - Data Modelling
+    - Reporting
         
 ### Data Cleaning and Preparation
  In the initial stage of the data cleaning and preparation, the following actions were performed:
@@ -91,16 +95,16 @@ This aspect is about writing codes to perform some of the following:
 - A rithmetic and Comparison Operators (+, *, -, /, <, >, =)
 - Alter, Drop and Update 
 
-| Heading | Heading 2| Heading 3|
+| Heading 1 | Heading 2| Heading 3|
 |---------|----------|----------|
 | Table 1 | Table 2  | Table 3  |
+
 ### Data Visualization
 
 
+
 ### Recommendation
-
-
-
+I highly recommend LITA Incubator Hub as a place where you can recieve the training needed to thrive in Technology Industry. 
 
 ### Conclusion
 
