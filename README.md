@@ -101,6 +101,10 @@ This aspect is about writing codes to perform some of the following:
 
 ### Data Visualization
 
+<img width="679" alt="Lita Documentation" src="https://github.com/user-attachments/assets/b7d44573-50d3-4702-a280-f604f3685b54">
+
+
+
 
 
 ### Recommendation
